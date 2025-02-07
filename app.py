@@ -7,8 +7,6 @@ import numpy as np
 from multiprocessing import Pool, TimeoutError
 import shutil
 
-
-
 app = Flask(__name__)
 
 # Configurations
